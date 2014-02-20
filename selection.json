@@ -35,7 +35,7 @@
 			"properties": {
 				"order": 1,
 				"id": 0,
-				"prevSize": 32,
+				"prevSize": 96,
 				"code": 58880,
 				"name": "ohtani",
 				"ligatures": "ohtani"
@@ -60,7 +60,7 @@
 			"properties": {
 				"order": 2,
 				"id": 1,
-				"prevSize": 32,
+				"prevSize": 96,
 				"code": 58881,
 				"name": "kotani",
 				"ligatures": "kotani"
@@ -89,7 +89,7 @@
 			"properties": {
 				"order": 3,
 				"id": 2,
-				"prevSize": 32,
+				"prevSize": 96,
 				"code": 58882,
 				"name": "kashiwagi",
 				"ligatures": "kashiwagi"
@@ -117,7 +117,7 @@
 			"properties": {
 				"order": 4,
 				"id": 3,
-				"prevSize": 32,
+				"prevSize": 96,
 				"code": 58883,
 				"name": "t_endo",
 				"ligatures": "taka"
@@ -143,7 +143,7 @@
 			"properties": {
 				"order": 5,
 				"id": 4,
-				"prevSize": 32,
+				"prevSize": 96,
 				"code": 58884,
 				"name": "fujita",
 				"ligatures": "fujita"
@@ -176,7 +176,7 @@
 			"properties": {
 				"order": 6,
 				"id": 5,
-				"prevSize": 32,
+				"prevSize": 96,
 				"code": 58885,
 				"name": "iida",
 				"ligatures": "iida"
@@ -208,7 +208,7 @@
 			"properties": {
 				"order": 7,
 				"id": 7,
-				"prevSize": 32,
+				"prevSize": 96,
 				"code": 58887,
 				"name": "kita",
 				"ligatures": "kita"
@@ -239,7 +239,7 @@
 			"properties": {
 				"order": 8,
 				"id": 6,
-				"prevSize": 32,
+				"prevSize": 96,
 				"code": 58886,
 				"name": "takahashi",
 				"ligatures": "takahashi"
@@ -272,7 +272,7 @@
 			"properties": {
 				"order": 9,
 				"id": 8,
-				"prevSize": 32,
+				"prevSize": 96,
 				"code": 58888,
 				"name": "nakano",
 				"ligatures": "nakano"
